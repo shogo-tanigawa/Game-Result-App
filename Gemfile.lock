@@ -251,7 +251,6 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   coffee-rails (~> 4.2)
-  faker
   jbuilder (~> 2.7)
   jquery-rails
   listen (~> 3.2)
